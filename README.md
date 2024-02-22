@@ -1,16 +1,40 @@
-### Hi there 👋
+<!-- Header -->
 
-<!--
-**Hybrid-Soda/Hybrid-Soda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-Here are some ideas to get you started:
+<div align=center>
+<!-- Introduce -->
+<h3 align="center">👋 Hello! I'm Web Developer, Kyoung-Tae</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Education -->
+
+<strong>:star: Education :star:</strong>
+
+<p text-align="center">
+  :computer: Samsung Software Academy for Youth (SSAFY) 11th (2024.1 ~ )
+  
+  :mortar_board: Mechanical Engineering, Hongik Univ. (2018.3 ~ 2024.2)
+</p>
+<br/>
+
+<!-- Skills -->
+
+<strong>:star: Skills :star:</strong>
+
+<div>
+  <p>Language</p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+</div>
+<div>
+  <p>Tools</p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+</div>
+<br/><br/><br/>
+
+<!-- Footer Banner -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
