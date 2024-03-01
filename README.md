@@ -35,6 +35,9 @@
 </div>
 <br/><br/><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl,html&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duplo8624)](https://solved.ac/duplo8624/)
+
 <!-- Footer Banner -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
