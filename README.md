@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook&layout=compact)
 
 <!-- Footer Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
