@@ -3,7 +3,7 @@
 
 <div align=center>
 <!-- Introduce -->
-<h3 align="center">👋 Hello! I'm Web Developer, Hybrid-Soda</h3>
+<h3 align="center">👋 Hello! I'm Web Developer, Kyoung-Tae</h3>
 
 <br/>
 
