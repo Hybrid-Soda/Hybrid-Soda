@@ -28,6 +28,7 @@
 </div>
 <div>
   <p>Front</p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
@@ -49,16 +50,17 @@
 </div>
 <div>
   <p>Studying</p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 <br/><br/><br/><br/><br/>
 
 <!-- GitHub Status -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duplo8624)](https://solved.ac/duplo8624/)
 
 <!-- Footer Banner -->
