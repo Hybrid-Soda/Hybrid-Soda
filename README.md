@@ -11,7 +11,7 @@
 <strong>:star: Education :star:</strong>
 
 <p text-align="center">
-  :computer: Samsung Software Academy for Youth (SSAFY) 11th (2024.1 ~ )
+  :computer: Samsung Software Academy for Youth (SSAFY) 11th (2024.1 ~ 2024.12)
   
   :mortar_board: Mechanical Engineering, Hongik Univ. (2018.3 ~ 2024.2)
 </p>
@@ -53,7 +53,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl,html,python,CSS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl,html,CSS&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duplo8624)](https://solved.ac/duplo8624/)
 
 </div>
