@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:feac5e,50:c779d0,100:4bc0c8&text=✨KYOUNGTAE's%20GITHUB✨&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=40&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:feac5e,50:c779d0,100:4bc0c8&text=✨KYOUNGTAE's%20GITHUB✨&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=40&fontColor=f7f5f5)
 
 </div>
 
@@ -23,8 +23,8 @@
 
 <div>
   <p>Language</p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
@@ -37,6 +37,7 @@
   <p>Back</p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 <div>
   <p>Tools</p>
@@ -54,6 +55,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_title=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl,html,CSS&layout=compact) -->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duplo8624)](https://solved.ac/duplo8624/)
 
 </div>
