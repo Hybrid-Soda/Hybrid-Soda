@@ -18,46 +18,18 @@
 <br/>
 
 <!-- Skills -->
+| Category | :star: Skills :star: |
+|---------|--------|
+| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) |
+| **Back-End** | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white) |
+| **Manage** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) |
+| **Tools** |  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| **Blog** | [![tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://devnovus.tistory.com/) |
 
-<strong>:star: Skills :star:</strong>
-
-<div>
-  <p>Language</p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-</div>
-<div>
-  <p>Back</p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-</div>
-<div>
-  <p>Front</p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-</div>
-<div>
-  <p>Tools</p>
-<!--   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/> -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-</div>
-<div>
-  <p>Blog</p>
-  <a href="https://devnovus.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-</div>
-<br/><br/><br/>
+<br/>
 
 <!-- GitHub Status -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hybrid-Soda&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_title=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duplo8624)](https://solved.ac/duplo8624/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hybrid-Soda&hide=jupyter%20notebook,shaderlab,hlsl,html,CSS&layout=compact) -->
